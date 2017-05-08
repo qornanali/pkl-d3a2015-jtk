@@ -3,8 +3,9 @@
 Repository ini di fork dari [sini](https://github.com/evadantir/pkl-d4a2014-jtk)  
 Terima kasih [@evadantir](https://github.com/evadantir)
 
-[List pengajuan D3A 2015](http://)
-[List pengajuan D4 2014](http://)
+[List pengajuan D3A 2015](https://github.com/qornanali/pkl-d3a2015-jtk/blob/master/README.md#pengajuan-dari-d3-2015)
+
+[List pengajuan D4 2014](https://github.com/qornanali/pkl-d3a2015-jtk/blob/master/README.md#pengajuan-dari-d4-2014)
 
 # Pengajuan dari D3 2015
 
