@@ -1,7 +1,10 @@
 # Repository PKL kelas D3-A 2015 JTK Polban
 
-Repository ini di fork dari https://github.com/evadantir/pkl-d4a2014-jtk 
-Terima kasih @evadantir
+Repository ini di fork dari [sini](https://github.com/evadantir/pkl-d4a2014-jtk)  
+Terima kasih [@evadantir](https://github.com/evadantir)
+
+[List pengajuan D3A 2015](http://)
+[List pengajuan D4 2014](http://)
 
 # Pengajuan dari D3 2015
 
