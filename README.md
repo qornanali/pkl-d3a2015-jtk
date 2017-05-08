@@ -1,4 +1,11 @@
-# Repository PKL kelas D4-A 2014 JTK Polban
+# Repository PKL kelas D3-A 2014 JTK Polban
+
+Repository ini di fork dari https://github.com/evadantir/pkl-d4a2014-jtk 
+Terima kasih @evadantir
+
+## Pengajuan dari D3 2015
+
+## Pengajuan dari D4 2014
 
 ## UrbanIndo
 
